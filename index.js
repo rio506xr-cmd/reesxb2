@@ -34,7 +34,7 @@ import ffmpegPath from 'ffmpeg-static';
 // ========================================
 
 // ضع آيدي روم الصوت هنا
-const VOICE_CHANNEL_ID = '1567744230418284554';
+const VOICE_CHANNEL_ID = '1567744232935137350';
 
 // التوكن من Render
 // يدعم TOKEN و DISCORD_TOKEN
